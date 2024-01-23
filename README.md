@@ -1,2 +1,3 @@
 # arun-demo
-my first git repository
+This is my first Git repository
+author - Arun Unnikrishnan
