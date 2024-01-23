@@ -1,3 +1,4 @@
 # arun-demo
 This is my first Git repository
-author - Arun Unnikrishnan
+<br>
+Author - Arun Unnikrishnan
